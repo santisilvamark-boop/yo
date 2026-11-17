@@ -1,0 +1,14 @@
+anthropic>=2.9
+numpy
+sounddevice
+mss
+pyautogui
+pyperclip
+pillow
+keyboard
+faster-whisper
+openwakeword>=0.6
+onnxruntime
+edge-tts
+miniaudio
+pyttsx3
